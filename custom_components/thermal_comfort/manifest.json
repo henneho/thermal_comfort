@@ -5,5 +5,6 @@
   "documentation": "https://github.com/dolezsa/thermal_comfort/blob/master/README.md",
   "dependencies": [],
   "codeowners": ["@dolezsa"],
-  "requirements": []
+  "requirements": [],
+  "version": "1.0.0"
 }
